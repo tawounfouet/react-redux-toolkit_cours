@@ -48,6 +48,18 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "Thomas",
+      "year": "2024",
+      "photo": "https://picsum.photos/400/457",
+      "id": 10
+    },
+    {
+      "artist": "Thomas",
+      "year": "2020",
+      "photo": "https://picsum.photos/400/385",
+      "id": 11
     }
   ]
 }
