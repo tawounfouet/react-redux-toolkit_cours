@@ -3,7 +3,7 @@ import { configureStore } from "@reduxjs/toolkit";
 
 export default configureStore({
   reducer: {
-    // pictures: picturesReducer,
-    pictures: null,
+    pictures: picturesReducer,
+    // pictures: null,
   },
 });
